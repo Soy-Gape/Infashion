@@ -1,0 +1,25 @@
+.fs-7{
+    font-size: 0.75rem;
+}
+.fs-8{
+    font-size: 0.5rem;
+}
+
+/* $spacer: 1rem;
+$spacers: (
+  0: 0,
+  1: $spacer * .25,
+  2: $spacer * .5,
+  3: $spacer,
+  4: $spacer * 1.5,
+  5: $spacer * 3,
+  6: $spacer * 3.5,
+  7: $spacer * 4,
+);
+ */
+.oculto{
+    display: none;
+}
+.visible{
+    display: inline-flex;
+}

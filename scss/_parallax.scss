@@ -1,0 +1,12 @@
+.parallax {  
+  background-image: url("../media/banner.jpg");
+  /* min-height: 500px; */
+  min-height: 330px;
+
+  /*parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index: 1;
+}

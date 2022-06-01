@@ -1,0 +1,740 @@
+{
+    "women":[
+        {
+            "id": "1",
+        "price": 299,
+        "title": "Mindset T-Shirt",
+        "image": "media/women/m1.jpg",
+        "image2": "media/women/m2.jpg"
+        },
+        {
+            "id": "2",
+        "price": 350,
+        "title": "Romance Ain't Dead T-Shirt",
+        "image": "media/women/women3.jpg",
+        "image2": "media/women/women4.jpg"
+        },
+        {
+            "id": "3",
+        "price": 1100,
+        "title": "1/4 Zip Jumper",
+        "image": "media/women/m3.jpg",
+        "image2": "media/women/m4.jpg"
+        },
+        {
+            "id": "4",
+        "price": 390,
+        "title": "Aloha Sway Shirt",
+        "image": "media/women/women7.jpg",
+        "image2": "media/women/women8.jpg"
+        },
+        {
+            "id": "5",
+        "price": 550,
+        "title": "Black Service Pants",
+        "image": "media/women/m5.jpg",
+        "image2": "media/women/m6.jpg"
+        },
+        {
+            "id": "6",
+        "price": 400,
+        "title": "Provision Sway Shirt",
+        "image": "media/women/m12.jpg",
+        "image2": "media/women/m13.jpg"
+        },
+        {
+            "id": "7",
+        "price": 200,
+        "title": "Desert Slub T-Shirt",
+        "image": "media/women/m14.jpg",
+        "image2": "media/women/m15.jpg"
+        },
+        {
+            "id": "8",
+        "price": 230,
+        "title": "Here and Now T-Shirt",
+        "image": "media/women/m16.jpg",
+        "image2": "media/women/m17.jpg"
+        },
+        {
+            "id": "9",
+        "price": 750,
+        "title": "Denim Chore Jacket",
+        "image": "media/women/m18.jpg",
+        "image2": "media/women/m19.jpg"
+        },
+        {
+            "id": "10",
+        "price": 150,
+        "title": "Racer Back Ribbed Vest",
+        "image": "media/women/m20.jpg",
+        "image2": "media/women/m21.jpg"
+        },
+        {
+            "id": "11",
+        "price": 400,
+        "title": "Denim Service Pants",
+        "image": "media/women/m22.jpg",
+        "image2": "media/women/m23.jpg"
+        },
+        {
+            "id": "12",
+        "price": 170,
+        "title": "Athletic T-Shirt",
+        "image": "media/women/m24.jpg",
+        "image2": "media/women/m25.jpg"
+        }
+    ],
+
+   
+
+    "men":[
+        {
+            "id": "13",
+        "price": 700,
+        "title": "Sudadera Negra",
+        "image": "media/men/c1.jpg",
+        "image2": "media/men/c2.jpg"
+        },
+        {
+            "id": "14",
+        "price": 1200,
+        "title": "Mindset Navy Jacket",
+        "image": "media/men/c3.jpg",
+        "image2": "media/men/c4.jpg"
+        },
+        {
+            "id": "15",
+        "price": 250,
+        "title": "Aloha T-Shirt",
+        "image": "media/men/c5.jpg",
+        "image2": "media/men/c6.jpg"
+        },
+        {
+            "id": "16",
+        "price": 720,
+        "title": "Pullover Hoodie",
+        "image": "media/men/c7.jpg",
+        "image2": "media/men/c8.jpg"
+        },
+        {
+            "id": "17",
+        "price": 250,
+        "title": "Purposeful Living T-Shirt",
+        "image": "media/men/c9.jpg",
+        "image2": "media/men/c10.jpg"
+        },
+        {
+            "id": "18",
+        "price": 850,
+        "title": "Service Fatigue Shorts",
+        "image": "media/men/c11.jpg",
+        "image2": "media/men/c12.jpg"
+        },
+        {
+            "id": "19",
+        "price": 1100,
+        "title": "A-2 Deck Jackett",
+        "image": "media/men/c13.jpg",
+        "image2": "media/men/c14.jpg"
+        },
+        {
+            "id": "20",
+        "price": 550,
+        "title": "Paradise Hoodie",
+        "image": "media/men/c15.jpg",
+        "image2": "media/men/c16.jpg"
+        },
+        {
+            "id": "21",
+        "price": 600,
+        "title": "Crewneck Sweater",
+        "image": "media/men/men17.jpg",
+        "image2": "media/men/men18.jpg"
+        },
+        {
+            "id": "22",
+        "price": 250,
+        "title": "Cobra T-Shirt",
+        "image": "media/men/men19.jpg",
+        "image2": "media/men/men20.jpg"
+        },
+        {
+            "id": "23",
+        "price": 1500,
+        "title": "Home From Home T-Shirt",
+        "image": "media/men/men21.jpg",
+        "image2": "media/men/men22.jpg"
+        },
+        {
+            "id": "24",
+        "price": 450,
+        "title": "Selvedge Denim Jeans",
+        "image": "media/men/men9.jpg",
+        "image2": "media/men/men10.jpg"
+        }
+    ],
+
+    "newArrivals":[
+        {
+            "id": "25",
+        "price": 550,
+        "title": "Camisa Style Corta",
+        "image": "media/men/c10.jpg",
+        "image2": "media/men/c9.jpg"
+        },
+        {
+            "id": "26",        
+        "price": 150,
+        "title": "Mindset T-Shirt",
+        "image": "media/women/women2.jpg",
+        "image2": "media/women/women1.jpg"        
+        },
+        {
+            "id": "28",
+        "price": 250,
+        "title": "Playera Casual New M",
+        "image": "media/men/c11.jpg",
+        "image2": "media/men/c12.jpg"
+        },
+        {
+            "id": "27",
+        "price": 1100,
+        "title": "1/4 Zip Jumper",
+        "image": "media/women/women5.jpg",
+        "image2": "media/women/women6.jpg"
+        }
+    ],
+    
+   "pantalones":[
+        {
+            "id": "28",
+        "price": 55,
+        "title": "Paradise Hoodie",
+        "image": "media/pantalones/p1.jpg",
+        "image2": "media/pantalones/p2.jpg"
+        },
+        {
+            "id": "29",        
+        "price": 150,
+        "title": "Mindset T-Shirt",
+        "image": "media/pantalones/p3.jpg",
+        "image2": "media/pantalones/p4.jpg"        
+        },
+        {
+            "id": "30",
+        "price": 250,
+        "title": "Mindset T-Shirt",
+        "image": "media/pantalones/p5.jpeg",
+        "image2": "media/pantalones/p6.jpeg"
+        },
+        {
+            "id": "31",
+        "price": 1100,
+        "title": "Mindset T-Shirt",
+        "image": "media/pantalones/p7.jpeg",
+        "image2": "media/pantalones/p8.jpeg"
+        },
+        {
+            "id": "32",
+        "price": 1100,
+        "title": "Mindset T-Shirt",
+        "image": "media/pantalones/p9.jpeg",
+        "image2": "media/pantalones/p10.jpeg"
+        },
+        {
+            "id": "33",
+        "price": 1100,
+        "title": "Mindset T-Shirt",
+        "image": "media/pantalones/p11.jpeg",
+        "image2": "media/pantalones/p12.jpeg"
+        },
+        {
+            "id": "34",
+        "price": 1100,
+        "title": "Mindset T-Shirt",
+        "image": "media/pantalones/p13.jpeg",
+        "image2": "media/pantalones/p14.jpeg"
+        },
+        {
+            "id": "35",
+        "price": 1100,
+        "title": "Mindset T-Shirt",
+        "image": "media/pantalones/p15.jpeg",
+        "image2": "media/pantalones/p16.jpeg"
+        },
+        
+        {
+            "id": "36",
+        "price": 1100,
+        "title": "Mindset T-Shirt",
+        "image": "media/pantalones/p17.jpeg",
+        "image2": "media/pantalones/p18.jpeg"
+        },
+        {
+            "id": "37",
+        "price": 1100,
+        "title": "Mindset T-Shirt",
+        "image": "media/pantalones/p19.jpeg",
+        "image2": "media/pantalones/p20.jpeg"
+        },
+        {
+            "id": "38",
+        "price": 1100,
+        "title": "Mindset T-Shirt",
+        "image": "media/pantalones/p21.jpeg",
+        "image2": "media/pantalones/p22.jpeg"
+        },
+        {
+            "id": "39",
+        "price": 1100,
+        "title": "Mindset T-Shirt",
+        "image": "media/pantalones/p23.jpeg",
+        "image2": "media/pantalones/p24.jpeg"
+        }
+    ],
+
+    "womenp":[
+        {
+        "id": "42",
+        "price": 170,
+        "title": "Athletic T-Shirt",
+        "image": "media/womenPants/wp1.jpg",
+        "image2": "media/womenPants/wp2.jpg"
+        },
+        {
+         "id": "42",
+        "price": 170,
+        "title": "Athletic T-Shirt",
+        "image": "media/womenPants/wp3.jpeg",
+        "image2": "media/womenPants/wp4.jpeg"
+            },
+        {
+        "id": "42",
+        "price": 170,
+        "title": "Athletic T-Shirt",
+        "image": "media/womenPants/wp5.jpeg",
+        "image2": "media/womenPants/wp6.jpeg"
+            },
+            
+        {
+        "id": "43",
+        "price": 170,
+        "title": "Athletic T-Shirt",
+        "image": "media/womenPants/wp7.jpeg",
+        "image2": "media/womenPants/wp8.jpeg"
+        },
+        {
+        "id": "43",
+        "price": 170,
+        "title": "Athletic T-Shirt",
+        "image": "media/womenPants/wp9.jpeg",
+        "image2": "media/womenPants/wp10.jpeg"
+            }         
+            ,
+            {
+            "id": "44",
+            "price": 170,
+            "title": "Athletic T-Shirt",
+            "image": "media/womenPants/wp11.jpeg",
+            "image2": "media/womenPants/wp12.jpeg"
+                },
+                
+            {
+            "id": "45",
+            "price": 170,
+            "title": "Athletic T-Shirt",
+            "image": "media/womenPants/wp13.jpeg",
+            "image2": "media/womenPants/wp14.jpeg"
+            },
+            {
+            "id": "46",
+            "price": 170,
+            "title": "Athletic T-Shirt",
+            "image": "media/womenPants/wp15.jpeg",
+            "image2": "media/womenPants/wp16.jpeg"
+                },
+            {
+            "id": "47",
+            "price": 170,
+            "title": "Athletic T-Shirt",
+            "image": "media/womenPants/wp17.jpeg",
+            "image2": "media/womenPants/wp18.jpeg"
+               },
+             {
+            "id": "48",
+            "price": 170,
+            "title": "Athletic T-Shirt",
+            "image": "media/womenPants/wp19.jpeg",
+            "image2": "media/womenPants/wp20.jpeg"
+                        },
+                        
+            {
+            "id": "49",
+            "price": 170,
+            "title": "Athletic T-Shirt",
+            "image": "media/womenPants/wp21.jpeg",
+            "image2": "media/womenPants/wp22.jpeg"
+                    },
+            {
+            "id": "50",
+            "price": 170,
+            "title": "Athletic T-Shirt",
+            "image": "media/womenPants/wp23.jpeg",
+            "image2": "media/womenPants/wp24.jpeg"
+                    }                    
+    ],
+     
+   "niñop":[
+    {
+        "id": "28",
+    "price": 55,
+    "title": "Paradise Hoodie",
+    "image": "media/niñoPants/p1.jpeg",
+    "image2": "media/niñoPants/p2.jpeg"
+    },
+    {
+        "id": "29",        
+    "price": 150,
+    "title": "Mindset T-Shirt",
+    "image": "media/niñoPants/p3.jpeg",
+    "image2": "media/niñoPants/p4.jpeg"        
+    },
+    {
+        "id": "30",
+    "price": 250,
+    "title": "Mindset T-Shirt",
+    "image": "media/niñoPants/p5.jpeg",
+    "image2": "media/niñoPants/p6.jpeg"
+    },
+    {
+        "id": "31",
+    "price": 1100,
+    "title": "Mindset T-Shirt",
+    "image": "media/niñoPants/p7.jpeg",
+    "image2": "media/niñoPants/p8.jpeg"
+    },
+    {
+        "id": "32",
+    "price": 1100,
+    "title": "Mindset T-Shirt",
+    "image": "media/niñoPants/p9.jpeg",
+    "image2": "media/niñoPants/p10.jpeg"
+    },
+    {
+        "id": "33",
+    "price": 1100,
+    "title": "Mindset T-Shirt",
+    "image": "media/niñoPants/p11.jpeg",
+    "image2": "media/niñoPants/p12.jpeg"
+    },
+    {
+        "id": "34",
+    "price": 1100,
+    "title": "Mindset T-Shirt",
+    "image": "media/niñoPants/p13.jpeg",
+    "image2": "media/niñoPants/p14.jpeg"
+    },
+    {
+        "id": "35",
+    "price": 1100,
+    "title": "Mindset T-Shirt",
+    "image": "media/niñoPants/p15.jpeg",
+    "image2": "media/niñoPants/p16.jpeg"
+    },
+    
+    {
+        "id": "36",
+    "price": 1100,
+    "title": "Mindset T-Shirt",
+    "image": "media/niñoPants/p17.jpeg",
+    "image2": "media/niñoPants/p18.jpeg"
+    },
+    {
+        "id": "37",
+    "price": 1100,
+    "title": "Mindset T-Shirt",
+    "image": "media/niñoPants/p19.jpeg",
+    "image2": "media/niñoPants/p20.jpeg"
+    },
+    {
+        "id": "38",
+    "price": 1100,
+    "title": "Mindset T-Shirt",
+    "image": "media/niñoPants/p21.jpeg",
+    "image2": "media/niñoPants/p22.jpeg"
+    },
+    {
+        "id": "39",
+    "price": 1100,
+    "title": "Mindset T-Shirt",
+    "image": "media/niñoPants/p23.jpeg",
+    "image2": "media/niñoPants/p24.jpeg"
+    }
+],
+"niño":[
+    {
+        "id": "40",
+    "price": 55,
+    "title": "Paradise Hoodie",
+    "image": "media/niño/c1.jpeg",
+    "image2": "media/niño/c2.jpeg"
+    },
+    {
+        "id": "41",        
+    "price": 150,
+    "title": "Mindset T-Shirt",
+    "image": "media/niño/c3.jpeg",
+    "image2": "media/niño/c4.jpeg"        
+    },
+    {
+        "id": "42",
+    "price": 250,
+    "title": "Mindset T-Shirt",
+    "image": "media/niño/c5.jpeg",
+    "image2": "media/niño/c6.jpeg"
+    },
+    {
+        "id": "43",
+    "price": 1100,
+    "title": "Mindset T-Shirt",
+    "image": "media/niño/c7.jpeg",
+    "image2": "media/niño/c8.jpeg"
+    },
+    {
+        "id": "44",
+    "price": 1100,
+    "title": "Mindset T-Shirt",
+    "image": "media/niño/c9.jpeg",
+    "image2": "media/niño/c10.jpeg"
+    },
+    {
+        "id": "45",
+    "price": 1100,
+    "title": "Mindset T-Shirt",
+    "image": "media/niño/c11.jpeg",
+    "image2": "media/niño/c12.jpeg"
+    },
+    {
+        "id": "46",
+    "price": 1100,
+    "title": "Mindset T-Shirt",
+    "image": "media/niño/c13.jpeg",
+    "image2": "media/niño/c14.jpeg"
+    },
+    {
+        "id": "47",
+    "price": 1100,
+    "title": "Mindset T-Shirt",
+    "image": "media/niño/c15.jpeg",
+    "image2": "media/niño/c16.jpeg"
+    },
+    
+    {
+        "id": "48",
+    "price": 1100,
+    "title": "Mindset T-Shirt",
+    "image": "media/niño/c17.jpeg",
+    "image2": "media/niño/c18.jpeg"
+    },
+    {
+        "id": "49",
+    "price": 1100,
+    "title": "Mindset T-Shirt",
+    "image": "media/niño/c19.jpeg",
+    "image2": "media/niño/c20.jpeg"
+    },
+    {
+        "id": "50",
+    "price": 1100,
+    "title": "Mindset T-Shirt",
+    "image": "media/niño/c21.jpeg",
+    "image2": "media/niño/c22.jpeg"
+    },
+    {
+        "id": "51",
+    "price": 1100,
+    "title": "Mindset T-Shirt",
+    "image": "media/niño/c23.jpeg",
+    "image2": "media/niño/c24.jpeg"
+    }
+],
+"niña":[
+    {
+        "id": "52",
+    "price": 55,
+    "title": "Paradise Hoodie",
+    "image": "media/niña/b1.jpeg",
+    "image2": "media/niña/b2.jpeg"
+    },
+    {
+        "id": "53",        
+    "price": 150,
+    "title": "Mindset T-Shirt",
+    "image": "media/niña/b3.jpeg",
+    "image2": "media/niña/b4.jpeg"        
+    },
+    {
+        "id": "54",
+    "price": 250,
+    "title": "Mindset T-Shirt",
+    "image": "media/niña/b5.jpeg",
+    "image2": "media/niña/b6.jpeg"
+    },
+    {
+        "id": "55",
+    "price": 1100,
+    "title": "Mindset T-Shirt",
+    "image": "media/niña/b7.jpeg",
+    "image2": "media/niña/b8.jpeg"
+    },
+    {
+        "id": "56",
+    "price": 1100,
+    "title": "Mindset T-Shirt",
+    "image": "media/niña/b9.jpeg",
+    "image2": "media/niña/b10.jpeg"
+    },
+    {
+        "id": "57",
+    "price": 1100,
+    "title": "Mindset T-Shirt",
+    "image": "media/niña/b11.jpeg",
+    "image2": "media/niña/b12.jpeg"
+    },
+    {
+        "id": "58",
+    "price": 1100,
+    "title": "Mindset T-Shirt",
+    "image": "media/niña/b13.jpeg",
+    "image2": "media/niña/b14.jpeg"
+    },
+    {
+        "id": "59",
+    "price": 1100,
+    "title": "Mindset T-Shirt",
+    "image": "media/niña/b15.jpeg",
+    "image2": "media/niña/b16.jpeg"
+    },
+    
+    {
+        "id": "60",
+    "price": 1100,
+    "title": "Mindset T-Shirt",
+    "image": "media/niña/b17.jpeg",
+    "image2": "media/niña/b18.jpeg"
+    },
+    {
+        "id": "49",
+    "price": 1100,
+    "title": "Mindset T-Shirt",
+    "image": "media/niña/b19.jpeg",
+    "image2": "media/niña/b20.jpeg"
+    },
+    {
+        "id": "50",
+    "price": 1100,
+    "title": "Mindset T-Shirt",
+    "image": "media/niña/b21.jpeg",
+    "image2": "media/niña/b22.jpeg"
+    },
+    {
+        "id": "51",
+    "price": 1100,
+    "title": "Mindset T-Shirt",
+    "image": "media/niña/b23.jpeg",
+    "image2": "media/niño/b24.jpeg"
+    }
+],
+"niñap":[
+    {
+        "id": "52",
+    "price": 55,
+    "title": "Paradise Hoodie",
+    "image": "media/niñaPants/p1.jpeg",
+    "image2": "media/niñaPants/p2.jpeg"
+    },
+    {
+        "id": "53",        
+    "price": 150,
+    "title": "Mindset T-Shirt",
+    "image": "media/niñaPants/p3.jpeg",
+    "image2": "media/niñaPants/p4.jpeg"        
+    },
+    {
+        "id": "54",
+    "price": 250,
+    "title": "Mindset T-Shirt",
+    "image": "media/niñaPants/p5.jpeg",
+    "image2": "media/niñaPants/p6.jpeg"
+    },
+    {
+        "id": "55",
+    "price": 1100,
+    "title": "Mindset T-Shirt",
+    "image": "media/niñaPants/p7.jpeg",
+    "image2": "media/niñaPants/p8.jpeg"
+    },
+    {
+        "id": "56",
+    "price": 1100,
+    "title": "Mindset T-Shirt",
+    "image": "media/niñaPants/p9.jpeg",
+    "image2": "media/niñaPants/p10.jpeg"
+    },
+    {
+        "id": "57",
+    "price": 1100,
+    "title": "Mindset T-Shirt",
+    "image": "media/niñaPants/p11.jpeg",
+    "image2": "media/niñaPants/p12.jpeg"
+    },
+    {
+        "id": "58",
+    "price": 1100,
+    "title": "Mindset T-Shirt",
+    "image": "media/niñaPants/p13.jpeg",
+    "image2": "media/niñaPants/p14.jpeg"
+    },
+    {
+        "id": "59",
+    "price": 1100,
+    "title": "Mindset T-Shirt",
+    "image": "media/niñaPants/p15.jpeg",
+    "image2": "media/niñaPants/p16.jpeg"
+    },
+    
+    {
+        "id": "60",
+    "price": 1100,
+    "title": "Mindset T-Shirt",
+    "image": "media/niñaPants/p17.jpeg",
+    "image2": "media/niñPants/p18.jpeg"
+    },
+    {
+        "id": "37",
+    "price": 1100,
+    "title": "Mindset T-Shirt",
+    "image": "media/niñaPants/p19.jpeg",
+    "image2": "media/niñaPants/p20.jpeg"
+    },
+    {
+        "id": "38",
+    "price": 1100,
+    "title": "Mindset T-Shirt",
+    "image": "media/niñaPants/p21.jpeg",
+    "image2": "media/niñaPants/p22.jpeg"
+    },
+    {
+        "id": "39",
+    "price": 1100,
+    "title": "Mindset T-Shirt",
+    "image": "media/niñaPants/p23.jpeg",
+    "image2": "media/niñaPants/p24.jpeg"
+    }
+]
+
+
+
+
+}

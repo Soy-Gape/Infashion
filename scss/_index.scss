@@ -1,0 +1,62 @@
+.main{
+    height: 800px;
+    color: white;
+    background-color: black;
+    p{
+      color: white;
+      text-decoration: none;
+    }
+}
+.main1{    
+    background: url(../media/main1.jpg) no-repeat center center;
+}
+.main2{
+    background: url(../media/main2.jpg) no-repeat center center;
+}
+.sectionContainer{
+    &:hover a {
+      opacity: 0.5; 
+    }
+    a:hover {
+      opacity: 1;
+    }
+    a{
+        opacity: 1;
+        transition: opacity .60s ease-in-out;
+        -moz-transition: opacity .60s ease-in-out;
+        -webkit-transition: opacity .60s ease-in-out;
+    }
+}
+.main3{
+    background: url(../media/main3.jpg) no-repeat center center;
+}
+.main4{
+    background: url(../media/main4.jpg) no-repeat center center;
+}
+.corazon{
+    position: absolute;
+    right: 4px;
+    bottom: 0px;
+}
+.icons2{
+    font-size: 36px;
+}
+.heroimg{
+    color: white;
+    height: 790px;
+    background: url(../media/heroimg.jpg) center;
+}
+.heroimgMen{
+    color: white;
+    height: 395px;
+    background: url(../media/heromen.jpg) center;
+}
+.heroimgWomen{
+    height: 395px;
+    background: url(../media/herowomen.jpg) center;
+}
+@media all and (max-width: 576px){
+    .main{
+        height: 1350px;
+    }
+}
